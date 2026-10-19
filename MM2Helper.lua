@@ -201,4 +201,4 @@ LP.CharacterAdded:Connect(function()
 	resetRound()
 end)
 
-print("[MM2 Helper] running. F6 = player ESP, F7 = gun ESP, F8 = reset roles")
+print("[AetherHub] running. F6 = player ESP, F7 = gun ESP, F8 = reset roles")
