@@ -231,7 +231,7 @@ end)
 
 -- ===== menu =====
 local gui = Instance.new("ScreenGui")
-gui.Name = "MM2Menu"
+gui.Name = "AetherHub!"
 gui.ResetOnSpawn = false
 gui.Parent = (gethui and gethui()) or game:GetService("CoreGui")
 
@@ -251,7 +251,7 @@ local title = Instance.new("TextLabel")
 title.Size = UDim2.new(1, 0, 0, 30)
 title.BackgroundColor3 = PURPLE
 title.BorderSizePixel = 0
-title.Text = "MM2 Helper"
+title.Text = "Aether"
 title.Font = Enum.Font.GothamBold
 title.TextSize = 15
 title.TextColor3 = Color3.new(1, 1, 1)
